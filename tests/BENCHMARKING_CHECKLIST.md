@@ -10,10 +10,10 @@ This checklist helps you track performance improvements as you add features and 
 - [ ] Notes: _______________________
 
 ## 2. After CRUD Features (Add/Edit/Complete/Delete)
-- [ ] Page load time (ms): __________
-- [ ] Memory usage (KB): __________
-- [ ] Response time (ms): __________
-- [ ] Requests per second (RPS): __________
+- [ ] Page load time (ms): _____31.57ms_____
+- [ ] Memory usage (KB): _____16.57KB_____
+- [ ] Response time (ms): ____0.83______
+- [ ] Requests per second (RPS): _____512.04 [#/sec] (mean)_____
 - [ ] Notes: _______________________
 
 ## 3. After Each Optimization (Repeat for each major optimization)
